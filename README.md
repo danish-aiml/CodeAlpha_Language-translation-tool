@@ -1,6 +1,6 @@
 # 🌐 Language Translation Tool
 
-A fast, modern, and free language translation web application powered by **Danish** **for Codr alpha** and open neural engines. 
+A fast, modern, and free language translation web application powered by **Danish** **for Code alpha** and open neural engines. 
 
 > **✨ 100% Free & No API Key Required!** You can use it immediately without signing up, paying, or creating any API keys.
 
