@@ -2,7 +2,7 @@
 
 <img src="assets/codealpha.jfif" width="250" alt="CodeAlpha Logo"/>
 
-  <
+  
 
   </div>
 
