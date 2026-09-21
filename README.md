@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/CodeAlpha-logo.png" width="250" alt="CodeAlpha Logo"/>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=44&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Network+Sniffer" alt="Network Sniffer"/>
+
+</div>
+
+
+
 # 🌐 Language Translation Tool
 
 A fast, modern, and free language translation web application powered by **Danish** **for Code alpha** and open neural engines. 
