@@ -118,3 +118,11 @@ d:\project\
 
 ### 3. How do I clear my translation history?
 - Click the **History** tab at the top, then click **Clear All**.
+
+## Credits
+
+This project is based on LibreTranslate:
+https://github.com/LibreTranslate/LibreTranslate
+
+LibreTranslate is licensed under the GNU Affero General Public License v3.0.
+The original project has been modified and extended for this implementation.
